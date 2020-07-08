@@ -1,55 +1,54 @@
  <center>
-     <h1>XXX</h1>
+     <h1>周鹏</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             18027483142
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
-         </span>
-         ·
-         <span>
-             <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
-         </span>
-         ·
-         <span>
-             <img src="assets/rss-solid.svg" width="18px">
-             <a href="#">My Blog</a>
+             18027483142@163.com
          </span>
      </div>
  </center>
 
+
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - 男，1994 年出生
- - 求职意向：Java 研发工程师
- - 工作经验：0 年（校招可不填）
- - 期望薪资：0k（校招可不填）
+ - 男，1997 年
+ - 求职意向：C++ 研发工程师、大数据工程师
+ - 毕业时间：2021年6月
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
-- 绩点：***，年级前 100%
+- 硕士，华南理工大学，软件工程，2018.9~至今
+- 学士，长沙学院，信息与计算科学，2014.9~2018.7
 - 通过了 CET4/6 英语等级考试
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
-
-   负责 XXX
+- **腾讯公司，腾讯看点M13搜索中心，C++后端开发实习生，2020.05~2020.07**
+1. 负责腾讯看点搜索中台onebox服务的开发和运维
+   2. 负责搜索业务的接入联调和压测
+   3. 开发离线数据入Cache的服务
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-- **XXXX 项目**
-
-  *使用到的技术*
-
-  使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
+- **Onebox搜索中台开发框架 **
+  1. 项目描述: OneBox服务是一个单纯的垂类业务如短视频、资讯等，也可以是资源聚合的形式如人物聚合卡等，通过一个一个OneBox服务的搭建，方便各个业务接入方可以快速的接入和使用，提升开发效率和内容互通效率。
+  2. 项目职责:
+     - 负责搜素业务接入中台，配合上下游进行联调，通过log查各种问题。
+     - 负责离线数据入IR正排的微服务开发（消费kafka消息写入DCache中)。
+     - 负责onebox项目初始化方式重构。
+- **搜狗新闻大数据实时分析系统**
+  1. 项目描述: 本项目完成对用户行为日志数据的采集、处理和存储过程。采用Flume实现多节点数据的采集和汇总，Flume将数据转发到Kafka由Spark Streaming进行实时分析处理，结果保存至MySQL中。
+  2. 项目职责:
+     - 完成对Zookeeper、Hadoop、Hive、Hbase、Kafka等大数据组件集群的部署与集成；
+     - 利用Zookeeper解决集群**单点故障**问题，实现HDFS、Yarn的**高可用**；
+     - 设计**合理预分区**和RowKey，避免写热点问题。
+- **C++多线程并发网络服务器(正在开发中)**
+  1. 项目描述:基于Reactor模式开发的多线程网络库。
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
