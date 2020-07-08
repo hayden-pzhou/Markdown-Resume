@@ -18,20 +18,22 @@
 
  - 男，1997 年
  - 求职意向：C++ 研发工程师、大数据工程师
- - 毕业时间：2021年6月
+ - 毕业时间：2021年7月
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
 - 硕士，华南理工大学，软件工程，2018.9~至今
 - 学士，长沙学院，信息与计算科学，2014.9~2018.7
-- 通过了 CET4/6 英语等级考试
+- 通过了 CET6 英语等级考试
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
 - **腾讯公司，腾讯看点M13搜索中心，C++后端开发实习生，2020.05~2020.07**
-1. 负责腾讯看点搜索中台onebox服务的开发和运维
-   2. 负责搜索业务的接入联调和压测
-   3. 开发离线数据入Cache的服务
+
+  - 负责腾讯看点搜索中台onebox服务的开发和运维
+
+  - 负责搜索业务的接入联调和压测
+  - 开发离线数据入Cache的服务
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
@@ -49,13 +51,14 @@
      - 设计**合理预分区**和RowKey，避免写热点问题。
 - **C++多线程并发网络服务器(正在开发中)**
   1. 项目描述:基于Reactor模式开发的多线程网络库。
+  2. 项目指责：
+     - 使用C++11新特性编写Web服务器，解析get、head请求，支持http长连接。
+     - 实现异步日志，记录服务器运行状态。
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- ★★★ Java
-- ★★☆ C++、Python
-- ★★★ MySQL
-- ★★★ Redis
-- ★★☆ Spring
-- ★☆☆ RabbitMQ、ZooKeeper
-- ★★☆ JavaScript
+- 熟悉C++和Java编程语言
+- 熟悉STL和C++11新特性，熟悉Java多线程编程
+- 熟悉常见数据结构和算法、操作系统、计算机网络等基础知识
+- 熟悉关系型数据库Mysql和内存数据Redis
+- 了解大数据框架Spark,消息中间件Kafka
