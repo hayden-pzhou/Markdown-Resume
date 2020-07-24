@@ -17,7 +17,7 @@
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 男，1997 年
- - 求职意向：C++ 研发工程师、大数据工程师
+ - 求职意向：服务端研发工程师
  - 毕业时间：2021年7月
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
@@ -26,18 +26,16 @@
 - 学士，长沙学院，信息与计算科学，2014.9~2018.7
 - 通过了 CET6 英语等级考试
 
-## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
+## <img src="assets/briefcase-solid.svg" width="30px"> 实习经历
 
-- **腾讯公司，腾讯看点M13搜索中心，C++后端开发实习生，2020.05~2020.07**
-
-  - 负责腾讯看点搜索中台onebox服务的开发和运维
-
-  - 负责搜索业务的接入联调和压测
-  - 开发离线数据入Cache的服务
+- **腾讯公司，腾讯看点M13搜索中心，C++后端开发实习生，2020.05~2020.08**
+- 负责腾讯看点搜索中台onebox服务的开发和运维
+- 负责搜索业务的接入联调和压测
+- 开发离线数据从Kafka灌入DCache的服务
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-- **Onebox搜索中台开发框架 **
+- **腾讯看点Onebox搜索中台开发框架 **
   1. 项目描述: OneBox服务是一个单纯的垂类业务如短视频、资讯等，也可以是资源聚合的形式如人物聚合卡等，通过一个一个OneBox服务的搭建，方便各个业务接入方可以快速的接入和使用，提升开发效率和内容互通效率。
   2. 项目职责:
      - 负责搜素业务接入中台，配合上下游进行联调，通过log查各种问题。
@@ -58,7 +56,7 @@
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
 - 熟悉C++和Java编程语言
-- 熟悉STL和C++11新特性，熟悉Java多线程编程
+- 熟悉STL和C++11新特性，熟悉多线程编程和JVM
 - 熟悉常见数据结构和算法、操作系统、计算机网络等基础知识
-- 熟悉关系型数据库Mysql和内存数据Redis
-- 了解大数据框架Spark,消息中间件Kafka
+- 熟悉关系型数据库Mysql和Redis
+- 了解大数据框架Spark,中间件Kafka
